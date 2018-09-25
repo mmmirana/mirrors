@@ -1,0 +1,7 @@
+账户181****8035
+远程连接密码： 380817
+公网地址	59.110.163.2
+linux	root	root5831xxx
+		mirana	5831xxx
+mysql
+		root	OE022CRH
